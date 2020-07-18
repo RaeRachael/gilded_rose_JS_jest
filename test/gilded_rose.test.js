@@ -24,8 +24,7 @@ describe("Gilded Rose", function() {
       const items = gildedRose.updateQuality();
       expect(items[0].quality).toBe(0);
     });
-    // edge case - why failing atm
-    xit("quality cannot be above 50", function() {
+    it("quality cannot be above 50", function() {
       const gildedRose = new Shop([new Item("foo", 0, 56)]);
       const items = gildedRose.items;
       expect(items[0].quality).toBe(50);
