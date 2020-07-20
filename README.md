@@ -1,6 +1,6 @@
 # Gilded Rose
 
-This is the Gilded Rose kata in JavaScript with Jest. - I forgot the requirement to not edit the item class in the week between reading the requirements and starting the task. I will look back at this at a later date to keep achieve the refactor and additional functionality without editing the item class. However I think the refactor atm is ok and the testing of the code is worthwhile to keep around, so I will more this solution to a seperate branch when I start this again later.
+This is the Gilded Rose kata in JavaScript with Jest. - I forgot the requirement to not edit the item class in the week between reading the requirements and starting the task. I will look back at this at a later date to keep achieve the refactor and additional functionality without editing the item class. However I think the refactor atm is ok and the testing of the code is worthwhile to keep around, so I will move this solution to a seperate branch when I start this again later.
 
 ## Getting started
 
